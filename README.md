@@ -3,11 +3,11 @@
 ![Banner Personalizado](url-del-banner)
 
 ## Sobre mí 📚
-Hola, soy [Tu Nombre]. Soy [Tu Profesion] con experiencia en [Áreas de experiencia]. Puedes encontrar más sobre mi trabajo en [Enlace a LinkedIn](url-de-linkedin) 📈.
+Hola, soy Hugo. Soy TSU en Desarrollo de Software Multiplataforma con experiencia en desarrollo frontend, backend y movil asi como en sistemas de recursos humanos. Puedes encontrar más sobre mi trabajo en www.linkedin.com/in/miralriodev 📈.
 
-- **Actualmente estoy trabajando en**: 🚀 [Proyecto actual]
-- **Estoy aprendiendo**: 📚 [Tecnología o habilidad que estás aprendiendo]
-- **Busco colaborar en**: 🤝 [Áreas de interés para colaboración]
+- **Actualmente estoy trabajando en**: 🚀 Fulboall
+- **Estoy aprendiendo**: 📚 NestJS
+- **Busco colaborar en**: 🤝 Proyectos emocionantes!
 
 ## Proyectos destacados 🎯
 
@@ -16,22 +16,23 @@ Hola, soy [Tu Nombre]. Soy [Tu Profesion] con experiencia en [Áreas de experien
 
 ## Tecnologías y herramientas 🔧
 **Dominio de tecnologías**: 
-- Python 🐍
-- JavaScript 📊
-- HTML/CSS 🎨
-- [Badges de tecnologías](url-de-badges) 🏆
+- Django/Flask 🐍
+- React/NextJS/Angular  📊
+- CSS/Tailwind/SaSS 🎨
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-239120?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 
 ## Estadísticas de GitHub 📊
 [![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacto 📱
-- [LinkedIn](url-de-linkedin) 📈
+- [LinkedIn](www.linkedin.com/in/miralriodev) 📈
 - [Twitter](url-de-twitter) 🐦
-- [Email](url-de-email) 📧
+- [Email](miralriohugo7@gmail.com) 📧
 
 ## Curiosidades 🤔
-- **Hecho divertido**: 😄 [Algo interesante sobre ti]
-- **Me encanta**: 🎮 [Intereses personales]
+- **Me encanta**: 🎮 Programar y Jugar Valorant
 
 ---
 
